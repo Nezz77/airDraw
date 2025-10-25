@@ -94,5 +94,3 @@ License
 This project is open-source and free to use.
 
 ⸻
-
-I can also rewrite your code structure so it’s modular, with a proper main.py and handTrackingModule.py, making it easier for others to run.
