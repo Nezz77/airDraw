@@ -62,7 +62,7 @@ while True:
                     drawColor = (0, 0, 255) # red
                 elif 370 < x1 < 600:
                     header = overlayList[2]
-                    drawColor = (255, 10, 10)   # blue
+                    drawColor = (255, 0, 0)   # blue
                 elif 600 < x1 < 825:
                     header = overlayList[3]
                     drawColor = (0, 255, 255)   # yellow
